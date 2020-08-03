@@ -1,3 +1,3 @@
 # Manette de Nes
 
-![manette](manette.png)
+![projet](projet.png)
